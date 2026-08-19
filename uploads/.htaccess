@@ -1,0 +1,4 @@
+# Empêche l'exécution de scripts PHP dans le dossier des fichiers uploadés
+<FilesMatch "\.(php|phtml|php3|php4|php5|pht)$">
+    Require all denied
+</FilesMatch>
