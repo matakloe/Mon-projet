@@ -37,13 +37,7 @@ médecins, rendez-vous et départements, incluant l'upload et l'affichage de pho
    par le serveur web (sous Linux/Mac : `chmod -R 775 uploads`).
 6. Ouvrez `http://localhost/hopital/` dans votre navigateur.
 
-## Connexion de démonstration
 
-- **Identifiant :** `admin`
-- **Mot de passe :** `admin123`
-
-Pensez à changer ce mot de passe (ou à créer d'autres comptes dans la table `users`)
-avant toute utilisation réelle.
 
 ## Structure du projet
 
